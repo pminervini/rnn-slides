@@ -1,0 +1,6 @@
+<div class=right><div class=top><div class=small>
+<div style="margin-bottom: 40%;"></div>
+\begin{align}
+\mathbf{h}_t & = f_{\theta}(\mathbf{x}_t, \mathbf{h}_{t - 1})
+\end{align}
+</div></div></div>
